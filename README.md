@@ -6,4 +6,5 @@
 Используемые технологии:
 <br>
 ```html
-HTML```, CSS, bootstrap
+HTML, CSS, bootstrap
+```
